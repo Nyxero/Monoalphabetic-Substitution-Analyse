@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoalphabeticSubstitutionAnalyse", "ConsoleApp1\MonoalphabeticSubstitutionAnalyse.csproj", "{88F11AA8-E0BE-4FDA-812A-5A8867276AEE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoalphabeticSubstitutionAnalyse", "MonoalphabeticSubstitutionAnalyse\MonoalphabeticSubstitutionAnalyse.csproj", "{88F11AA8-E0BE-4FDA-812A-5A8867276AEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

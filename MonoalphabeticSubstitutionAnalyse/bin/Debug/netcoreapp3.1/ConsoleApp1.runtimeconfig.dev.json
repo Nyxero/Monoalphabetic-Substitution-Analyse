@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Nyxero\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Nyxero\\.nuget\\packages"
+    ]
+  }
+}
