@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoalphabeticSubstitutionAnalyse", "ConsoleApp1\MonoalphabeticSubstitutionAnalyse.csproj", "{88F11AA8-E0BE-4FDA-812A-5A8867276AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88F11AA8-E0BE-4FDA-812A-5A8867276AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F11AA8-E0BE-4FDA-812A-5A8867276AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F11AA8-E0BE-4FDA-812A-5A8867276AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F11AA8-E0BE-4FDA-812A-5A8867276AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {923CA663-BC6B-4D07-B01F-EC2885739B30}
+	EndGlobalSection
+EndGlobal
